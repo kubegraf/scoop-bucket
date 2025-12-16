@@ -1,10 +1,10 @@
 {
-  "version": "1.7.14",
+  "version": "1.7.15",
   "description": "Intelligent Kubernetes Control Center",
   "homepage": "https://kubegraf.io",
   "license": "Apache-2.0",
-  "url": "https://github.com/kubegraf/kubegraf/releases/download/v1.7.14/kubegraf-windows-amd64.zip",
-  "hash": "4d51f5182ef37a6b467ecd5abbc23d7c13f9f5bebfb34ddaf236798e3d28de17",
+  "url": "https://github.com/kubegraf/kubegraf/releases/download/v1.7.15/kubegraf-windows-amd64.zip",
+  "hash": "029a94c82b1ed68b3433a8d1fc78cf79f1a5e415767bc6c027389a98b6e3587a",
   "bin": "kubegraf.exe",
   "checkver": {
     "github": "https://github.com/kubegraf/kubegraf"
