@@ -4,7 +4,7 @@
   "homepage": "https://kubegraf.io",
   "license": "Apache-2.0",
   "url": "https://github.com/kubegraf/kubegraf/releases/download/v1.7.58/kubegraf-windows-amd64.zip",
-  "hash": "3e774e17352fd75a5d52751afbd0aa01046ef6c41eb5af5c691df4a2a5d89aee",
+  "hash": "144f3b063ce69f9e22000d199a7a48d8466daa5574347b01df6f454c86adc5e8",
   "bin": "kubegraf.exe",
   "checkver": {
     "github": "https://github.com/kubegraf/kubegraf"
