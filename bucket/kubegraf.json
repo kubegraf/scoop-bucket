@@ -1,15 +1,22 @@
 {
-  "version": "1.7.60",
-  "description": "Intelligent Kubernetes Control Center",
-  "homepage": "https://kubegraf.io",
-  "license": "Apache-2.0",
-  "url": "https://github.com/kubegraf/kubegraf/releases/download/v1.7.60/kubegraf-windows-amd64.zip",
-  "hash": "0335cb1562ff740cd95ec7f311eb78aaf929484e7c5358cbe686500a088c6375",
-  "bin": "kubegraf.exe",
-  "checkver": {
-    "github": "https://github.com/kubegraf/kubegraf"
-  },
-  "autoupdate": {
-    "url": "https://github.com/kubegraf/kubegraf/releases/download/v$version/kubegraf-windows-amd64.zip"
-  }
+    "version": "1.7.61",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/kubegraf/kubegraf/releases/download/v1.7.61/kubegraf-windows-amd64.zip",
+            "bin": [
+                "kubegraf.exe"
+            ],
+            "hash": "5c677a65691d4f3d3f111c99316ed5d5c2124504ba5e9fdb1d5f380a29abdf0f"
+        },
+        "arm64": {
+            "url": "https://github.com/kubegraf/kubegraf/releases/download/v1.7.61/kubegraf-windows-arm64.zip",
+            "bin": [
+                "kubegraf.exe"
+            ],
+            "hash": "10d4acf7fdc9565dc9c5c7e8313bbbee62aae9a31d16b53ad1b2973e8af07fc6"
+        }
+    },
+    "homepage": "https://kubegraf.io",
+    "license": "Apache-2.0",
+    "description": "Advanced Kubernetes visualization tool with terminal UI and web dashboard"
 }
