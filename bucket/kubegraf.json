@@ -1,19 +1,19 @@
 {
-    "version": "1.8.1",
+    "version": "1.0.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/kubegraf/kubegraf/releases/download/v1.8.1/kubegraf-1.8.1-windows-amd64.zip",
+            "url": "https://github.com/kubegraf/kubegraf/releases/download/v1.0.0/kubegraf-1.0.0-windows-amd64.zip",
             "bin": [
                 "kubegraf.exe"
             ],
-            "hash": "a9b1ab04ec75d149a3bc354d89cffb266580a41149cb933798a51432b284fa90"
+            "hash": "f3efd61aee9cd2917b4343422addcf1e1f9d814a791b48db606d8c367cb6ea02"
         },
         "arm64": {
-            "url": "https://github.com/kubegraf/kubegraf/releases/download/v1.8.1/kubegraf-1.8.1-windows-arm64.zip",
+            "url": "https://github.com/kubegraf/kubegraf/releases/download/v1.0.0/kubegraf-1.0.0-windows-arm64.zip",
             "bin": [
                 "kubegraf.exe"
             ],
-            "hash": "c2d3d6ab90e1e48326b8c7f153da1aba80f6116c3bb57b0cd11d40229a0e71c4"
+            "hash": "a8069a4e9d7adeb6acc468d73da16db8fef6422bfc7d1fe174bb4df39b35f68c"
         }
     },
     "homepage": "https://kubegraf.io",
